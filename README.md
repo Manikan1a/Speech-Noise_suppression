@@ -59,4 +59,12 @@ Enter the path to a noisy audio file when prompted. Choose whether to save the e
 
 ## Future Improvements
 
-- Improve speech quality while preserving intellig
+- Improve speech quality while preserving intelligibility.
+- Evaluate performance using objective speech-quality metrics.
+- Test the model on diverse real-world noise conditions.
+
+## Author
+
+**Manikan1a**
+
+GitHub: [@Manikan1a](https://github.com/Manikan1a)
